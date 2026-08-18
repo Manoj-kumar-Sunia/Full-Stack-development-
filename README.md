@@ -4,4 +4,4 @@
 3.  This repository documents my learning journey, practice work, and progress toward becoming a full-stack developer.<br>
 4.  Today, I strengthened my understanding of HTML fundamentals and practiced working with hyperlinks. <br>
 5.  I explored how to create, structure, and use links effectively to connect web pages and external resources.<br>
-6.
+6.  Today ends the code of html and start CSS today quite exiting 
